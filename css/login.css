@@ -1,0 +1,62 @@
+
+
+
+
+@media screen and (min-width : 980px){
+    .custom-login-text{
+        font-size:1.5vw;
+       
+    
+    }
+    h1{
+        font-size:5vw;
+    }
+
+}
+
+@media screen and (max-width : 979px){
+    .custom-login-text{
+        font-size:1.4vw;
+        
+    
+    }
+    h1{
+        font-size:4vw;
+    }
+
+}
+
+@media screen and (max-width : 600px){
+    .custom-col{
+        display: none;
+    }
+    #login{
+        width:100%;
+        font-size:2vw;
+    }
+    .custom-control{
+        font-size:2vw;
+    }
+    #validCheck{
+        font-size:2vw;
+    }
+    h1{
+        font-size:2vw;
+    }
+
+}
+
+#validCheck{
+    color:green;
+}
+
+.login-custom{
+   margin-top:20%;
+    background-color: none;
+}
+body{
+    background-color:rgb(204, 204, 204);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
